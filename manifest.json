@@ -1,0 +1,15 @@
+{
+ "schema_version": 3,
+ "version": "2026.07.06-4",
+ "file": "delhi-transit-2026.07.06-4.db",
+ "size_bytes": 10919936,
+ "sha256": "c3cb04b5bbe6c37a7463926f143e1b61877bbcd09faa2a0ab5a00100b8945cdb",
+ "generated_at": "2026-07-06T07:45:23+00:00",
+ "min_app_version": 1,
+ "counts": {
+  "lines": 14,
+  "stations": 254,
+  "bus_routes": 2753,
+  "bus_stops": 6751
+ }
+}
